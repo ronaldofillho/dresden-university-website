@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    
+}
+.container-principal {
+    width: 100%;   
+    
+}
+.cabecalho{
+    width: 100%;
+    height: 66px; /* Confirmado do Photoshop */
+    background-color: #022656;
+}
+.image-logo{
+    width: 150px;
+    height: 47px;
+    margin-top: 10px;
+    margin-left: 158px;
+}
+.conteudo{
+    width: 100%;
+    text-align: justify;
+    box-sizing: border-box;
+    padding-left: 200px; padding-right: 200px;
+    font-size: 14;    
+}

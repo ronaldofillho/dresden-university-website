@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+}
+.container-principal {
+  width: 100%;
+}
+.cabecalho {
+  width: 100%;
+  height: 66px; /* Confirmado do Photoshop */
+  background-color: #022656;
+}
+.image-logo {
+  width: 150px;
+  height: 47px;
+  margin-top: 10px;
+  margin-left: 158px;
+}
+.sub-cabecalho {
+  width: 100%;
+  height: 147px;
+}
+.image-sub-cabecalho {
+  width: 212px;
+  height: 85px;
+  margin-top: 42px;
+  margin-left: 158px;
+}
+
+.banner {
+  width: 100%;
+  height: 438px;
+}
+.image-banner {
+  width: 100%;
+  height: 100%;
+}
+.texto-abaixo-banner {
+  width: 100%;
+  outline: solid 4px orangered;
+  padding-left: 200px;
+  padding-right: 200px;
+  box-sizing: border-box;
+  font-size: 14;
+  text-align: justify;
+}
+.data {
+  width: 100%;
+  height: 35px;
+  background-color: #022656;
+  color: white;
+  outline: solid 4px grey;
+  box-sizing: border-box;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: 20;
+}
+.data-palestra {
+  width: 100%;
+  height: 500px;
+  outline: solid 4px hotpink;
+  padding-left: 200px;
+  padding-right: 200px;
+  box-sizing: border-box;
+  text-align: justify;
+  font-size: 14;
+}

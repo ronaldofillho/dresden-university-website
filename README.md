@@ -1,1 +1,1 @@
-# dresden-university-website
+# Dresden University Website

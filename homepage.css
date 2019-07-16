@@ -129,8 +129,6 @@ p {
   color: white;
 }
 
-/* Hora */
-
 .hora-container {
   width: 62px;
   padding-top: 28px;
@@ -141,8 +139,6 @@ p {
   color: #989898;
   font-weight: 100;
 }
-
-/* Linha */
 
 .linha-container {
   width: 300px;
@@ -155,8 +151,6 @@ p {
   margin: 0;
   margin-top: 42px;
 }
-
-/* Texto */
 
 .texto-container {
   width: 650px;
@@ -187,8 +181,6 @@ p {
   color: white;
 }
 
-/* Rodapé */
-
 .rodape {
   height: 80px;
   background-color: #f4f4f4;
@@ -196,5 +188,12 @@ p {
   justify-content: flex-end;
   box-sizing: border-box;
   padding-right: 260px;
-  padding-top: 47px;
+  align-items: center;
+}
+
+.rodape a {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #022656;
+  font-size: 14px;
 }

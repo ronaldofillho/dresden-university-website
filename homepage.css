@@ -192,4 +192,9 @@ p {
 .rodape {
   height: 80px;
   background-color: #f4f4f4;
+  display: flex;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  padding-right: 260px;
+  padding-top: 47px;
 }

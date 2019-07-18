@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "OpenSans-Bold";
+  src: url("./fonts/OpenSans-Bold.ttf");
+}
+
 body,
 p {
   margin: 0;
@@ -99,7 +104,7 @@ p {
 
 .data p {
   font-size: 26;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "OpenSans-Bold";
   margin-left: 158px;
   text-align: justify;
 }
